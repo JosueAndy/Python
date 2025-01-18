@@ -1,0 +1,12 @@
+print('ESTE ES UN PROGRAMA QUE TE SERVIRA PARA PARA CREAR EL NOMBRE DE TU CERVEZA')
+print('-----------------------------------------------------------------------------')
+print('Primero te haremos algunas preguntas para que puedas crear el nombre de tu cerveza')
+print('Cual es tu color favorito?')
+color = input()
+print('Cual es tu animal favorito?')
+animal = input()
+print('Y por ultimo, la ciudad donde naciste?')
+ciudad = input()
+print('-----------------------------------------------------------------------------')
+print('El nombre de tu cerveza es:' + '\n\t' + '\'' + color + ' ' + animal + ' de ' + ciudad + '\'')
+      
